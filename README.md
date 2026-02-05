@@ -68,7 +68,7 @@ C:\xampp\htdocs\rental-motor\
 
 2. Jalankan Apache di XAMPP
 3. Buka browser:
-http://localhost/rental-motor/
+http://localhost/rental-mtr/
 
 
 ---
